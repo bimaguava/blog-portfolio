@@ -64,12 +64,7 @@ export default function Footer() {
           >
             Snippets
           </Link>
-        {/*  <Link
-            href="/tweets"
-            className="text-gray-500 hover:text-gray-600 transition"
-          >
-            Tweets
-            </Link> */}
+
         </div>
       </div>
     </footer>

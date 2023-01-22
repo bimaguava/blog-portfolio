@@ -25,7 +25,7 @@ export async function getServerSideProps({ res }) {
       'dashboard',
       'guestbook',
       'newsletter',
-      {/*'tweets',*/}
+
       'uses'
     ]
   ];
