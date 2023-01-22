@@ -1,6 +1,6 @@
 import { MDXRemote } from 'next-mdx-remote';
 import BlogLayout from 'layouts/blog';
-import Tweet from 'components/Tweet';
+
 import components from 'components/MDXComponents';
 import { postQuery, postSlugsQuery } from 'lib/queries';
 import { getTweets } from 'lib/twitter';
